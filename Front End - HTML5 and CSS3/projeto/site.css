@@ -1,0 +1,25 @@
+body {
+    font-family: "Crimson Text", "Times New Roman", serif;
+    background-color: #F2FFFC;
+    font-size: 120%;
+}
+
+h1, h2 {
+    font-family: "Open Sans Condensed", "Arial", sans-serif;
+}
+
+main h1 {
+    font-size: 60px;
+    background-color: #851944;
+    color: #FAFFFA;
+    text-align: center;        
+}
+
+h2 {
+    font-size: 40px;
+    font-family: "Open Sans Condensed", sans-serif;
+}
+
+p {
+    text-align: justify;
+}
